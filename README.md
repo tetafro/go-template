@@ -1,6 +1,6 @@
 # go-template
 
-A template for a my Go projects.
+A template for my Go projects.
 
 ## Project settings
 
